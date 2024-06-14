@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+   background: #ff6bba;
+}
+
+button{
+  background: #000000;
+  color: #ffffff;
+  border: #ffffff;
+  padding: 10px;
+  border-radius: 55px;
+  font-size: 20px;
+  margin-top: 10px;
+}
